@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-I'm Jocelyn, a passionate iOS developer with over 6 years of experience. Currently pursuing a graduate degree at Northeastern University.  
+I’m Jocelyn, a software engineer focused on iOS and full-stack development, currently pursuing my M.S. at Northeastern University.  
 
 
 **About Me:**
