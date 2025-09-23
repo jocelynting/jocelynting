@@ -15,7 +15,7 @@ I’m Jocelyn, a software engineer focused on iOS and full-stack development, cu
 
 **Recent Projects:**
 
-- 🚀 Developed a **Cloud-Native Web Application** ([Code & Packer](https://github.com/jocelynting/cloud-native-web-application]) | [Terraform](https://github.com/jocelynting/cloud-project-terraform-aws-infra)), featuring:
+- 🚀 Developed a **Cloud-Native Web Application** ([Code & Packer](https://github.com/jocelynting/cloud-native-web-application.git) | [Terraform](https://github.com/jocelynting/cloud-project-terraform-aws-infra)), featuring:
   - Flask + MySQL with automated CSV movie data ingestion scripts  
   - AWS infra via CloudFormation, custom AMIs with Packer  
   - CI/CD pipelines (GitHub Actions), Nginx reverse-proxy, CloudWatch monitoring
